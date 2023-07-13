@@ -48,5 +48,3 @@ To know more information see "Help\TinyDB.chm" file.
 ----------------------
 
 DayDream Software
-Website: http://www.tinydb.com
-Email: haoxg@21cn.com
