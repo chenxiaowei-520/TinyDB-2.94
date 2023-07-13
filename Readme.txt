@@ -45,6 +45,3 @@ To know more information see "Help\TinyDB.chm" file.
 
 
 2. Contact Information
-----------------------
-
-DayDream Software
